@@ -1,0 +1,6 @@
+Quick checklist:
+1) From PowerShell: `cd C:\CSD\CSD-325`
+2) Create directory: `mkdir module-1` (already created)
+3) List files: `dir` and take a screenshot
+4) Open Word, paste screenshot, add name and assignment number, save as `YourLastName-Assignment1_2.docx` into `module-1`
+5) Git: `git status`, `git add --all`, `git commit -m "Pushing <date or message>"`, `git push origin main`
